@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Nakum05
-- 👀 I’m interested in mobile application
+- 👀 I’m Working as a mobile application Developer (Flutter).
 - 🌱 I’m currently learning new things for useful for making app.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me contact: 6355194839 (only msg)
+- 📫 How to reach me contact: 6355194839 (only whatsapp msg)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 

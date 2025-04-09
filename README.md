@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Nakum05
+- 👋 Hi, I’m @Jiten
 - 👀 I’m Working as a mobile application Developer (Flutter).
-- 🌱 I’m currently learning new things for useful for making app.
+- 🌱 I’m currently learning new things for useful for making app and web application.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me contact: 6355194839 (only whatsapp msg)
 - 😄 Pronouns: ...
